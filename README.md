@@ -32,7 +32,9 @@ As analyst and you are working for leading e-commerce client. The client asked y
 
 ## Tools Used-
 Power BI
+
 Power Query
+
 Data modeling
 
 ## What i did?
@@ -56,7 +58,7 @@ to the dashboards.
 6. What is effect of Special Promotions?
 7. How Pricing fluctuations effecting sales?
 
-![Dashboard_upload]
+![Dashboards]
 
 Page 2: ![WhatsApp Image 2024-03-11 at 01 57 53(1)](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/8bf8c62c-78f7-4338-bcaa-830f61c7ec91)
 
@@ -68,4 +70,4 @@ Page 5: ![WhatsApp Image 2024-03-11 at 01 57 54(1)](https://github.com/Whimsical
 
 Page 6: ![WhatsApp Image 2024-03-11 at 01 57 54(2)](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/42ce3d3f-06c6-4c19-98f8-f00c56eff680)
 
-Page 7: ![WhatsApp Image 2024-03-11 at 02 01 30](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/5edd1b4f-7bb0-4ba3-875d-ffc47d6aac37)
+
