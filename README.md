@@ -1,4 +1,4 @@
-# 
+# ECommerce-Dashboard
 E-commerce is one of the fastest growing sector as now-a-days most of the customers prefer to purchase online. More and more business houses are implementing web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that the process of shopping on the web is becoming commonplace.E-commerce sales analysis through our interactive Power BI dashboard. Cleaned and modeled from Sales_Data_Ecommerce and Promotion.csv, This data is about customer behavior which contains data of
 multiple user events. The duration of the data for two months.
 
