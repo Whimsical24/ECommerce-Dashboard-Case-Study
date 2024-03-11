@@ -30,12 +30,12 @@ As analyst and you are working for leading e-commerce client. The client asked y
 - Sales_Data_Ecommerce
 - Promotion.csv
 
-#Tools Used
+## Tools Used-
 Power BI
 Power Query
 Data modeling
 
-# What i did?
+## What i did?
 
 - Transformed Data (Cleaning, Formatting, Performing aggregate function, grouping etc.)
 
@@ -45,7 +45,7 @@ Data modeling
 
 - Used Various charts(Donut Chart, Stacked Bar chart, Stacked Column chart, card, Slicer etc.) according to categories 
 
-#Business Questions:
+## Business Questions: -
 The below are few Sample business questions to be addressed as part of this analysis. However, this is not exhaustive list, and you can add as many as analysis
 to the dashboards.
 1. How is price varying by brand/category/time/channel?
@@ -59,8 +59,13 @@ to the dashboards.
 ![Dashboard_upload]
 
 Page 2: ![WhatsApp Image 2024-03-11 at 01 57 53(1)](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/8bf8c62c-78f7-4338-bcaa-830f61c7ec91)
+
 Page 3: ![WhatsApp Image 2024-03-11 at 01 57 53(2)](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/8fb56dfd-1352-49a8-afc9-5981686d78ec)
+
 Page 4: ![WhatsApp Image 2024-03-11 at 01 57 54](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/a15ee6db-7059-4ce9-bd49-9218e7bc042c)
+
 Page 5: ![WhatsApp Image 2024-03-11 at 01 57 54(1)](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/3be91f0e-4dad-49f9-97a2-9f7d0cfdfee4)
+
 Page 6: ![WhatsApp Image 2024-03-11 at 01 57 54(2)](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/42ce3d3f-06c6-4c19-98f8-f00c56eff680)
+
 Page 7: ![WhatsApp Image 2024-03-11 at 02 01 30](https://github.com/Whimsical24/Railways-Performance-Analytics/assets/108448418/5edd1b4f-7bb0-4ba3-875d-ffc47d6aac37)
